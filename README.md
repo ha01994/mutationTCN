@@ -5,13 +5,13 @@ The code is compatible with tensorflow-gpu 1.10.0 and python 2.7.
 
 ## Example code run:
 
-  cd unsupervised/
+    cd unsupervised/
 
-  CUDA_VISIBLE_DEVICES=# python train.py ../data/
+    CUDA_VISIBLE_DEVICES=# python train.py ../data/
 
 
-  cd semisupervised/
+    cd semisupervised/
 
-  CUDA_VISIBLE_DEVICES=# python train_ssTCN_pretraining.py ../data/
+    CUDA_VISIBLE_DEVICES=# python train_ssTCN_pretraining.py ../data/
 
-  CUDA_VISIBLE_DEVICES=# python train_ssTCN_training.py ../data/
+    CUDA_VISIBLE_DEVICES=# python train_ssTCN_training.py ../data/
