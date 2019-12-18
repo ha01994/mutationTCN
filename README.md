@@ -1,5 +1,6 @@
 # mutationTCN
-This is the code for the paper Prediction of Mutation Effects using a Deep Temporal Convolutional Network (paper in progress).
+This is the code for the paper Prediction of Mutation Effects using a Deep Temporal Convolutional Network.
+https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz873/5634146
 
 The code is compatible with tensorflow-gpu=1.10.0 and python=2.7.
 
